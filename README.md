@@ -53,7 +53,7 @@ Build for production:npm run build
 
 Deployment
 
-Deployed on Vercel: Live URL (replace with actual URL after deployment).
+Deployed on Vercel: Live URL[(https://softsell-chi.vercel.app/).]
 Push to GitHub and connect to Vercel for automatic builds.
 
 Notes
